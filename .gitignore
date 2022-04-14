@@ -2,6 +2,6 @@
 
 !data/*
 !*.py
-!.ipynb
+!*.ipynb
 
 !.gitignore
